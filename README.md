@@ -1,4 +1,4 @@
-# Trade Stocks with the help of Python
+# Trade Stocks with the help of Python [![CodeFactor](https://www.codefactor.io/repository/github/citizendot/stocks-with-python/badge)](https://www.codefactor.io/repository/github/citizendot/stocks-with-python)
 
 ## Introduction
 
