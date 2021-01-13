@@ -1,5 +1,8 @@
 # Trade Stocks with the help of Python [![CodeFactor](https://www.codefactor.io/repository/github/citizendot/stocks-with-python/badge)](https://www.codefactor.io/repository/github/citizendot/stocks-with-python)
 
+![Stocks-with-Python](https://user-images.githubusercontent.com/52322531/104420890-7c998280-5572-11eb-9cc6-560e249e93e2.png)
+-----
+
 ## Introduction
 
 Ever Thought of Buying Shares of your Dream Company, When their share price got down?
